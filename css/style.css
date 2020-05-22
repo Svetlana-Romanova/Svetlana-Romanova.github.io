@@ -399,7 +399,7 @@ button {
     top: 7px;
     width: 30px;
     height: 19px;
-    background: url("/img/icon-mail.svg") center center/cover no-repeat; }
+    background: url("/img/sprite.svg#icon-mail") center center/cover no-repeat; }
 
 .footer__phone {
   position: relative; }
